@@ -64,3 +64,6 @@ console.log("Theek Thaak");
 console.log("Successfully done");
 
 console.log("bdshbf");
+
+// I am fixing some bug
+console.log("Bug fixed");
