@@ -57,3 +57,6 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(element);
 console.log("Hello Sab Badhiya h");
+console.log("Ha Badhiya");
+
+console.log("Theek Thaak");
